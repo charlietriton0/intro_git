@@ -13,3 +13,4 @@ https://qiita.com/kzk_engineer/items/6b6d10397557ecb553df
 - git commit
 - git rm
 - git status
+- git diff
