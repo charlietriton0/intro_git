@@ -1,2 +1,10 @@
 Gitの練習をしていきます。
 基本的なワークフローを学びます。
+git のコメント入力をVSCodeに見直してみた。
+参考にしたのは、
+https://qiita.com/kzk_engineer/items/6b6d10397557ecb553df
+
+1. git config core.editorに'code --wait'を設定
+2. VSCodeとGitの連携
+    Shell Commandに 'code'をインストール
+    git pathを設定
