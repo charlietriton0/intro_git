@@ -11,3 +11,4 @@ https://qiita.com/kzk_engineer/items/6b6d10397557ecb553df
 
 - git add
 - git commit
+- git rm
